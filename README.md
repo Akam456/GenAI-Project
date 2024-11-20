@@ -27,12 +27,10 @@ The app is ideal for creative enthusiasts, designers, and educators looking for 
 ## Key Technologies Used
 
 - **tldraw**: A library for creating infinite canvas and whiteboard applications.
-- **GitHub**: Version control and collaborative repository management.
 - **Node.js**: A JavaScript runtime for server-side development.
 - **React**: A library for building interactive user interfaces.
 - **Next.js**: A React framework for building modern web applications with advanced features.
 - **Fal**: A serverless microservice platform for running machine learning models via API.
-- **Visual Studio Code**: A code editor for managing and editing project files.
 - **NPM**: A package manager for handling dependencies and running development servers.
 
 ## Use Cases
