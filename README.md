@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GenAI-Project# Draw Fast Web App
 
 ## Project Name

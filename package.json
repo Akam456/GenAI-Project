@@ -1,0 +1,35 @@
+{
+	"name": "tldraw-draw-fast",
+	"version": "0.1.0",
+	"private": true,
+	"license": "MIT",
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint",
+		"format": "prettier --write ."
+	},
+	"dependencies": {
+		"@fal-ai/serverless-client": "^0.6.0",
+		"@fal-ai/serverless-proxy": "^0.6.0",
+		"@tldraw/tldraw": "3.1.0",
+		"next": "14.0.3",
+		"react": "^18",
+		"react-dom": "^18",
+		"uuid": "^9.0.1"
+	},
+	"devDependencies": {
+		"@types/node": "^20",
+		"@types/react": "^18",
+		"@types/react-dom": "^18",
+		"@types/uuid": "^9.0.7",
+		"autoprefixer": "^10.0.1",
+		"eslint": "^8",
+		"eslint-config-next": "14.0.3",
+		"postcss": "^8",
+		"prettier": "^3.1.0",
+		"prettier-plugin-organize-imports": "^3.2.4",
+		"typescript": "^5"
+	}
+}
